@@ -20,7 +20,7 @@
 
 <p align="center">
 <img height="30" src="https://img.shields.io/badge/-Discord.py-090909?style=for-the-badge&logo=discord"/>
-<img height="30" src="https://img.shields.io/badge/-Discord.js-05122A?style=for-the-badge&logo=discord"/>
+<img height="30" src="https://img.shields.io/badge/-Discord.js-090909?style=for-the-badge&logo=discord"/>
 </p>
 
 <p align="center">
